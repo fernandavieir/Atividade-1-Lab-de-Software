@@ -8,9 +8,10 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    
+<center>   
 <h1>Cadastro de Clientes</h1>
 <p>Sistema para cadastro de clientes.</p>
+<center>
 <form action="salvarcliente.php" method="get">
     <center>
     <label for="nome">Nome do cliente</label>
